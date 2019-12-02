@@ -1,0 +1,7 @@
+
+asquid:S4488*"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¬ å‰
+Vsquid:S2441>":Make "User" serializable or don't store it in the session.(Šñ¬Êûÿÿÿÿ
+Wsquid:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(™şÆ»
+fsquid:S4488J"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¦µ»ùÿÿÿÿ
+fsquid:S4488:"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ä¸½˜ùÿÿÿÿ
+\squid:S4684;"@Replace this persistent entity with a simple POJO or DTO object.(´æí·úÿÿÿÿ

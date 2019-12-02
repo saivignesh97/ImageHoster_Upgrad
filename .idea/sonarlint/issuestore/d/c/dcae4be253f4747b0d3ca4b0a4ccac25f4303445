@@ -1,0 +1,9 @@
+
+qsquid:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¿œÑ
+dsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ôœû¥ùÿÿÿÿ
+asquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ìâ¿ÿÿÿÿÿ8áû¸ì-
+bsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ğ‹Û–ÿÿÿÿÿ
+bsquid:S4488"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(²Ù»5
+gsquid:S1192"FDefine a constant instead of duplicating this literal "image" 4 times.(³›­éşÿÿÿÿ8´¸“ì-
+asquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¶Ö¯Õıÿÿÿÿ8áû¸ì-
+lsquid:S1192"KDefine a constant instead of duplicating this literal "loggeduser" 4 times.(€‘âîüÿÿÿÿ8ã£’ì-
